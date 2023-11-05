@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  5 NOV 2023 22:51
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.8.17)  5 NOV 2023 23:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1159,29 +1159,28 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [3]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 37.
+(hyperref)                removing `math shift' on input line 54.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\alpha' on input line 37.
+(hyperref)                removing `\alpha' on input line 54.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 37.
+(hyperref)                removing `math shift' on input line 54.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 37.
+(hyperref)                removing `math shift' on input line 54.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\beta' on input line 37.
+(hyperref)                removing `\beta' on input line 54.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 37.
+(hyperref)                removing `math shift' on input line 54.
 
-)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1190,7 +1189,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4]
+[4])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1213,7 +1212,7 @@ Package rerunfilecheck Info: File `AUTthesis.out' has not changed.
 Here is how much of TeX's memory you used:
  18027 strings out of 476683
  361786 string characters out of 5807575
- 1851012 words of memory out of 5000000
+ 1852012 words of memory out of 5000000
  37860 multiletter control sequences out of 15000+600000
  521670 words of font info for 127 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
