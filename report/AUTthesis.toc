@@ -6,6 +6,14 @@
 \contentsline {chapter}{\numberline {1}بازی \lr {Pacman}}{2}{chapter.1}%
 \contentsline {section}{\numberline {1-1}مقدمه}{3}{section.1.1}%
 \contentsline {section}{\numberline {1-2}طرح مسئله}{3}{section.1.2}%
-\contentsline {section}{\numberline {1-3}لینک گیت هاب کد}{4}{section.1.3}%
-\contentsline {chapter}{مراجع}{5}{appendix*.3}%
+\contentsline {section}{\numberline {1-3}کلاس ها و متد های مورد نیاز}{4}{section.1.3}%
+\contentsline {subsection}{\numberline {1-3-1}\lr {board}}{4}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1-3-2}\lr {PG}}{4}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1-3-3}\lr {Pacman}}{4}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1-3-4}\lr {ghost}}{4}{subsection.1.3.4}%
+\contentsline {section}{\numberline {1-4}الگوریتم هرس $\alpha $ - $\beta $}{4}{section.1.4}%
+\contentsline {section}{\numberline {1-5}تابع ارزیابی و عمق جست و جو}{5}{section.1.5}%
+\contentsline {section}{\numberline {1-6}عملکرد الگوریتم}{5}{section.1.6}%
+\contentsline {section}{\numberline {1-7}لینک گیت هاب کد}{5}{section.1.7}%
+\contentsline {chapter}{مراجع}{6}{appendix*.3}%
 \contentsfinish 
